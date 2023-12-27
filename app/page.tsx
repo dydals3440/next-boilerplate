@@ -3,8 +3,7 @@ import React from 'react';
 export default function Home() {
   return (
     <>
-      <div>dev 작업을 진행했습니다.</div>
-      <div>응! 나 로그인 작업임!!</div>
+      <h3>로그인 버그 다 수정함 힘들었다.</h3>
     </>
   );
 }
